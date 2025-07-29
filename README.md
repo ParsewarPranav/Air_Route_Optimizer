@@ -42,5 +42,9 @@ The integrated mapping component takes the coordinates of the start and end poin
 **Author** : Pranav Parsewar
 **LinkedIn** : http://www.linkedin.com/in/pranav-parsewar-1a8178220 
 
-<img width="594" height="699" alt="Screenshot 2025-07-30 001404" src="https://github.com/user-attachments/assets/4e1695d0-bceb-448e-af11-87187ed2efbf" />
+# Outputs Screenshots : 
+<img width="1277" height="837" alt="image" src="https://github.com/user-attachments/assets/89430d72-f0c1-4114-bc34-c361e550aadd" />
+<img width="1563" height="807" alt="image" src="https://github.com/user-attachments/assets/3174a64c-da23-46ce-acde-390421349adf" />
+<img width="936" height="834" alt="Screenshot 2025-07-30 004742" src="https://github.com/user-attachments/assets/7ad53400-10a6-4331-b24c-34517d011aee" />
+
 
