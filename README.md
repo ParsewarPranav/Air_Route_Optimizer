@@ -38,3 +38,6 @@ The optimal route, including intermediate stops, total optimized value (time, pr
 
 # Visual Confirmation: 
 The integrated mapping component takes the coordinates of the start and end points of the calculated path and draws a connecting line, providing a clear visual confirmation of the chosen route.
+
+**Author** : Pranav Parsewar
+**LinkedIn** : http://www.linkedin.com/in/pranav-parsewar-1a8178220 
