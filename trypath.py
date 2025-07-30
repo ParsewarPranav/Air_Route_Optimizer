@@ -91,7 +91,7 @@ def visualize_on_google_maps(path, distances, start, end, metric):
     lats, lons = zip(*[coordinates[city] for city in path])
 
     # Your API key
-    api_key = 'AIzaSyA0LsEr2CGFk6ibP-xgF15h-cFbi3CL5pY'  # Replace with your actual API key
+    api_key = '***********************'  # Replace with your actual API key
 
     # Adjust zoom level dynamically based on distance
     zoom_level = adjust_zoom(distances[end])
